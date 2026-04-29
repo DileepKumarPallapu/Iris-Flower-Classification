@@ -1,6 +1,6 @@
 ---
 
-# 5) Iris Flower Classification
+# Iris Flower Classification
 
 ```md
 # Iris Flower Classification
